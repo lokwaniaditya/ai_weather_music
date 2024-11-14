@@ -34,10 +34,10 @@ Try it out here: https://beatforecast.com/ <br/>
 
 <h1>Demo</h1>
 Home page:
-![Weather-Based Playlists Home Page](./demo_files/home_page.png)
+![Weather-Based Playlists Home Page](demo_files/home_page.png)
 Weather demo:
-![Weather-Based Playlists](./demo_files/weather_1.png)
-![Weather-Based Playlists](./demo_files/weather_2.png)
+![Weather-Based Playlists](demo_files/weather_1.png)
+![Weather-Based Playlists](demo_files/weather_2.png)
 
 <h1>Contact</h1>
 For suggestions/improvement, feel free to contact me!
