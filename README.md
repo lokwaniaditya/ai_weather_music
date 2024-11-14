@@ -38,7 +38,6 @@ Home page:
 Weather demo:
 ![Weather-Based Playlists](./demo_files/weather_1.png)
 ![Weather-Based Playlists](./demo_files/weather_2.png)
-<br/>
-<br/>
+
 <h1>Contact</h1>
 For suggestions/improvement, feel free to contact me!
