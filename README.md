@@ -6,6 +6,17 @@ Try it out here: https://beatforecast.com/ <br/>
 <h1>Project Overview</h1>
 BeatForecast aims to enhance your music experience by syncing your playlist with the current weather. It uses real-time weather data to serve you curated music recommendations that match the mood of the day.
 
+<h1>Highlights</h1>
+<ul>
+  <li>🎵 Weather-Based Playlists: Curated music recommendations based on the current weather.</li>
+  <li>🌦 Real-Time Weather Integration: Pulls weather data from a reliable weather API.</li>
+  <li>📱 Responsive Design: Fully responsive web app that looks great on any device.</li>
+  <li>🌎 Geolocation Support: Automatically detects your location for accurate local weather updates.</li>
+  <li>🎨 User-Friendly Interface: Simple and intuitive UI for a seamless experience.</li>
+  <li>🌄 Dynamic Playlists: Different playlists for sunny, rainy, snowy, and windy conditions.</li>
+  <li>🍂 Seasonal Vibes: Special playlists based on the season for an added touch.</li>
+</ul>
+
 <h1>Tech Stack</h1>
 <ul>
   <li>FrontEnd: ReactJS (using vite)</li>
@@ -22,6 +33,10 @@ BeatForecast aims to enhance your music experience by syncing your playlist with
   <li>Select and play any song from the recommended list directly</li>
   <li>See the weather and music recommendations for different locations by searching it using the search bar</li>
 </ul>
+
+<h1>Demo</h1>
+
+
 
 <h1>Contact</h1>
 For suggestions/improvement, feel free to contact me!
