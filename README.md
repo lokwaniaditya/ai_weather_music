@@ -1,10 +1,8 @@
 <h1>BeatForecast</h1>
-A web-based application that gives music recommendations using AI based on the weather of the location user is in - A twist to the classic weather app <br/>
+BeatForecast aims to enhance your music experience by syncing your playlist with the current weather. It uses real-time weather data to serve you curated music recommendations that match the mood of the day.
+
 <h1>Live Demo</h1>
 Try it out here: https://beatforecast.com/ <br/>
-
-<h1>Project Overview</h1>
-BeatForecast aims to enhance your music experience by syncing your playlist with the current weather. It uses real-time weather data to serve you curated music recommendations that match the mood of the day.
 
 <h1>Highlights</h1>
 <ul>
@@ -35,8 +33,12 @@ BeatForecast aims to enhance your music experience by syncing your playlist with
 </ul>
 
 <h1>Demo</h1>
+Home page: <br/>
+![Weather-Based Playlists Home Page](./demo_files/home_page.png)
 
-
-
+Weather demo: <br/>
+![Weather-Based Playlists](./demo_files/weather_1.png)
+![Weather-Based Playlists](./demo_files/weather_2.png)
+<br/>
 <h1>Contact</h1>
 For suggestions/improvement, feel free to contact me!
