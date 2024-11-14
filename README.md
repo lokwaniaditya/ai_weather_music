@@ -33,13 +33,12 @@ Try it out here: https://beatforecast.com/ <br/>
 </ul>
 
 <h1>Demo</h1>
-Home page: <br/>
+Home page:
 ![Weather-Based Playlists Home Page](./demo_files/home_page.png)
-<br/>
-Weather demo: <br/>
+Weather demo:
 ![Weather-Based Playlists](./demo_files/weather_1.png)
-<br/>
 ![Weather-Based Playlists](./demo_files/weather_2.png)
+<br/>
 <br/>
 <h1>Contact</h1>
 For suggestions/improvement, feel free to contact me!
