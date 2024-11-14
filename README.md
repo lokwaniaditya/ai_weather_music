@@ -1,7 +1,7 @@
-<h1>BeatForecast</h1>
+<h1>BeatForecast 🎧</h1>
 BeatForecast aims to enhance your music experience by syncing your playlist with the current weather. It uses real-time weather data to serve you curated music recommendations that match the mood of the day.
 
-<h1>Live Demo</h1>
+<h1>See It in Action 🌍</h1>
 Try it out here: https://beatforecast.com/ <br/>
 
 <h1>Highlights</h1>
